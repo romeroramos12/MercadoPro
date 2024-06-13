@@ -1,0 +1,11 @@
+public interface GerenciadorDeProdutos {
+    void adicionarProduto(Produto produto);
+    void removerProduto(String nome);
+    void listarProdutos();
+    void emitirRelatorio(String caminhoArquivo);
+    void salvarSistema(String caminhoArquivo);
+    void carregarSistema(String caminhoArquivo);
+}
+
+
+

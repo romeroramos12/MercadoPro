@@ -1,0 +1,17 @@
+Eletrônico: Notebook
+Marca: Dell
+Modelo: Inspiron
+Preço: R$ 2500,00
+Quantidade: 10
+---------------------------
+Roupa: Camiseta
+Tamanho: M
+Cor: Azul
+Preço: R$ 50,00
+Quantidade: 20
+---------------------------
+Alimento: Chocolate
+Data de Validade: 12/2024
+Preço: R$ 5,00
+Quantidade: 30
+---------------------------
